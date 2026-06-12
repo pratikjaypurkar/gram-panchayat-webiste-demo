@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gpsavarla.in/sitemap.xml
