@@ -141,15 +141,19 @@ export default function Navbar() {
       </div>
 
       <nav className="flex items-center justify-between bg-white py-2 px-4 md:px-16 shadow-lg">
-        <Link href={"/"}>
+        <Link href={"/"} className="flex items-center gap-2">
           <Image
             src={"/final-logo.png"}
             alt="Gram Panchayat Logo"
             width={500}
             height={500}
-            className="max-w-[70px] md:max-w-[95px] drop-shadow-[0_2px_10px_rgba(0,0,0,0.5)] hover:scale-110 transition-transform duration-300"
+            className="max-w-[55px] md:max-w-[95px] drop-shadow-[0_2px_10px_rgba(0,0,0,0.5)] hover:scale-110 transition-transform duration-300"
             unoptimized
           />
+          <div className="flex flex-col">
+            <span className="text-[13px] md:text-sm font-black text-[#138808] leading-tight">ग्रामपंचायत सावर्डा</span>
+            <span className="text-[9px] md:text-[10px] font-bold text-gray-600 leading-tight uppercase tracking-wider">Gram Panchayat Savarla</span>
+          </div>
         </Link>
         <div className="flex xl:hidden items-center gap-2 text-black">
           <Link
