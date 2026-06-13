@@ -151,7 +151,7 @@ export default function Navbar() {
             unoptimized
           />
           <div className="flex flex-col">
-            <span className="text-[13px] md:text-sm font-black text-[#138808] leading-tight">ग्रामपंचायत सावर्डा</span>
+            <span className="text-[13px] md:text-sm font-black text-[#138808] leading-tight">ग्रामपंचायत सावरला</span>
             <span className="text-[9px] md:text-[10px] font-bold text-gray-600 leading-tight uppercase tracking-wider">Gram Panchayat Savarla</span>
           </div>
         </Link>
