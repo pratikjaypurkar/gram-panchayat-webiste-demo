@@ -17,15 +17,14 @@ export default function Home() {
       <Hero />
       <BannerCarousel />
       <About />
-      {/* <FeaturedInfo /> */}
+      <FeaturedInfo />
       <Video />
       <Facts />
       <Journey />
       <VideoCarousel />
       <Vision />
       <Socialfeeds />
-
-      {/* <Members /> */}
+      <Members />
     </main>
   );
 }

@@ -122,7 +122,24 @@ export default function Navbar() {
   const prefLangCookie = encodeURIComponent("/en/mr");
 
   return (
-    <header className="sticky top-0 z-40">
+    <header className="sticky top-0 z-50">
+      {/* Official Gov Top Bar */}
+      <div className="bg-[#1a1a1a] text-gray-200 text-[10px] md:text-xs py-1.5 px-4 md:px-16 flex justify-between items-center relative">
+        <div className="flex items-center gap-2 md:gap-4 relative z-10">
+          <span className="font-medium">महाराष्ट्र शासन | Govt. of Maharashtra</span>
+        </div>
+        <div className="flex items-center gap-3 md:gap-4 relative z-10">
+          <span className="hidden md:block cursor-pointer hover:text-white transition-colors">Skip to main content</span>
+          <div className="flex items-center gap-2 border-l border-gray-600 pl-3 md:pl-4">
+            <span className="cursor-pointer hover:text-white transition-colors">A-</span>
+            <span className="cursor-pointer hover:text-white transition-colors">A</span>
+            <span className="cursor-pointer hover:text-white transition-colors">A+</span>
+          </div>
+        </div>
+        {/* Continuous Tricolor Bottom Border */}
+        <div className="absolute bottom-0 left-0 w-full h-[3px] bg-gradient-to-r from-[#FF9933] via-white to-[#138808] z-20" />
+      </div>
+
       <nav className="flex items-center justify-between bg-white py-2 px-4 md:px-16 shadow-lg">
         <Link href={"/"}>
           <Image

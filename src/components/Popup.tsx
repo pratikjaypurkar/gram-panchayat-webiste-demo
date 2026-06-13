@@ -11,15 +11,10 @@ export default function Popup() {
   const t1 = useTranslations("contact us");
 
   useEffect(() => {
+    // Show immediately after a tiny delay for smooth animation
     const timer1 = setTimeout(() => {
       setHidden(false);
-
-      const timer2 = setTimeout(() => {
-        setHidden(true);
-      }, 15000);
-
-      return () => clearTimeout(timer2);
-    }, 5000);
+    }, 500);
 
     return () => clearTimeout(timer1);
   }, []);
@@ -34,42 +29,55 @@ export default function Popup() {
 
   const [loading, setLoading] = useState(false);
 
-  // const handleSubmit = async (e: FormEvent) => {
-  //   e.preventDefault();
-  //   setLoading(true);
-  //   try {
-  //     const { data, error } = await supabase
-  //       .from("gram_panchayat_savarla_contact_form")
-  //       .insert([formdata])
-  //       .select();
-
-  //     if (error) {
-  //       throw error;
-  //     }
-
-  //     alert("Message sent successfully");
-  //   } catch (e) {
-  //     alert("An error occurred while sending the message");
-  //   }
-
-  //   setTimeout(() => {
-  //     setLoading(false);
-  //   }, 4000);
-  // };
-
   return (
     <div
-      className={`${hidden ? "opacity-0 translate-y-[300%]" : ""} fixed top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-50 backdrop-blur z-50 transition-all duration-500`}
+      className={`${hidden ? "opacity-0 pointer-events-none scale-95" : "opacity-100 scale-100"} fixed top-0 left-0 w-full h-full flex items-center justify-center bg-black/60 backdrop-blur-sm z-[100] transition-all duration-500`}
     >
-      <div className="relative bg-white rounded-2xl p-8 max-w-[500px] text-center shadow-2xl mx-4">
-        <h2 className="text-3xl font-bold text-[var(--primary-clr)] mb-4">Welcome to Gram Panchayat Savarla Portal</h2>
-        <p className="text-lg text-gray-700 italic mb-8">&quot;{t("quote2")}&quot;</p>
+      <div className="relative bg-white rounded-md max-w-[550px] w-full text-center shadow-[0_20px_60px_rgba(0,0,0,0.5)] mx-4 overflow-hidden border-t-[8px] border-[#FF9933]">
+        
+        {/* Close Button */}
         <button
-          className="absolute top-4 right-4 text-gray-500 hover:text-black transition-colors"
+          className="absolute top-4 right-4 text-gray-400 hover:text-red-500 transition-colors z-10"
           onClick={() => setHidden(true)}
         >
-          <IoClose size={30} />
+          <IoClose size={28} />
         </button>
+
+        {/* Header Section */}
+        <div className="bg-gray-50 py-8 px-6 border-b border-gray-200">
+          <Image
+            src="/final-logo.png"
+            alt="Gram Panchayat Logo"
+            width={120}
+            height={120}
+            className="mx-auto mb-4 drop-shadow-md"
+            unoptimized
+          />
+          <h2 className="text-2xl md:text-3xl font-bold text-gray-900 tracking-tight">
+            Welcome to Gram Panchayat Portal
+          </h2>
+        </div>
+
+        {/* Body Section */}
+        <div className="p-8 md:p-10 bg-white">
+          <div className="mb-8">
+            <span className="text-4xl text-[#FF9933] font-serif leading-none opacity-50">&quot;</span>
+            <p className="text-lg md:text-xl text-gray-700 font-medium leading-relaxed italic px-4">
+              {t("quote2")}
+            </p>
+            <span className="text-4xl text-[#138808] font-serif leading-none opacity-50 float-right -mt-4">&quot;</span>
+          </div>
+
+          <button
+            className="px-10 py-3 bg-[#138808] text-white font-bold tracking-wide uppercase rounded-sm hover:bg-green-800 transition-colors shadow-lg w-full sm:w-auto"
+            onClick={() => setHidden(true)}
+          >
+            Proceed to Portal
+          </button>
+        </div>
+
+        {/* Tricolor Bottom border */}
+        <div className="absolute bottom-0 left-0 w-full h-[5px] bg-gradient-to-r from-[#FF9933] via-white to-[#138808]" />
       </div>
     </div>
     // <div

@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 :root {
-  --primary-clr: #FF9933;
-  --secondary-clr: #138808;
+  --primary-clr: #138808;
+  --secondary-clr: #FF9933;
   --accent-clr: #0B3D91;
   --primary-txt: #1E293B;
   --secondary-txt: #64748B;
@@ -241,7 +241,7 @@ body {
 /* GP Portal Specific Styles */
 .chatbot-btn {
   position: fixed;
-  bottom: 2rem;
+  bottom: 6rem;
   right: 2rem;
   z-index: 999;
   width: 60px;
@@ -265,7 +265,7 @@ body {
 
 .chatbot-window {
   position: fixed;
-  bottom: 5rem;
+  bottom: 10rem;
   right: 2rem;
   z-index: 998;
   width: 360px;
