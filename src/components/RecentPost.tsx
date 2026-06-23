@@ -10,13 +10,12 @@ export default function RecentPost() {
   }, []);
 
   return (
-    <Link
-      href="/#feed"
-      className={`fixed bottom-0 right-0 mb-12 py-2 px-4 rounded-l-full bg-[var(--primary-clr)] text-white z-50 shadow-custom transition-all duration-1000 ${
-        hidden ? "translate-x-full" : "translate-x-0"
-      }`}
-    >
-      Recent Posts
-    </Link>
+    <div className="fixed bottom-24 right-4 z-50">
+      <Link href={"/news"}>
+        <button className="bg-green-600 text-white font-semibold py-2 px-4 rounded-lg shadow-lg hover:bg-green-700 transition duration-300">
+          नवीन माहिती
+        </button>
+      </Link>
+    </div>
   );
 }

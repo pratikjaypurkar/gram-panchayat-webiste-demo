@@ -85,7 +85,7 @@ export default function Hero() {
             
             <div className="inline-flex items-center gap-2 px-3 py-1 bg-white/10 backdrop-blur-sm border border-white/30 text-xs font-bold tracking-widest uppercase text-white shadow-sm">
               <span className="w-2 h-2 rounded-full bg-[#FF9933] animate-pulse" />
-              ग्रामपंचायत पोर्टल | Official Portal
+              ग्रामपंचायत पोर्टल
             </div>
             
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-black leading-tight tracking-tight text-white border-b-4 border-[#FF9933] pb-4 inline-block">
@@ -116,10 +116,10 @@ export default function Hero() {
       <div className="relative z-30 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-16">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
           {[
-            { icon: FaLandmark, text: "ग्राम विकास", sub: "Rural Development", color: "text-[#FF9933]", bg: "bg-white", border: "border-t-[#FF9933]" },
-            { icon: FaWater, text: "जल जीवन", sub: "Clean Water", color: "text-[#004B87]", bg: "bg-white", border: "border-t-[#004B87]" },
-            { icon: FaTree, text: "कृषी योजना", sub: "Agriculture", color: "text-[#138808]", bg: "bg-white", border: "border-t-[#138808]" },
-            { icon: FaTractor, text: "ई-सेवा", sub: "Online Services", color: "text-gray-700", bg: "bg-white", border: "border-t-gray-700" }
+            { icon: FaLandmark, text: "ग्राम विकास", sub: "ग्रामीण विकास", color: "text-[#FF9933]", bg: "bg-white", border: "border-t-[#FF9933]" },
+            { icon: FaWater, text: "जल जीवन", sub: "स्वच्छ पाणी", color: "text-[#004B87]", bg: "bg-white", border: "border-t-[#004B87]" },
+            { icon: FaTree, text: "कृषी योजना", sub: "शेती", color: "text-[#138808]", bg: "bg-white", border: "border-t-[#138808]" },
+            { icon: FaTractor, text: "ई-सेवा", sub: "ऑनलाइन सेवा", color: "text-gray-700", bg: "bg-white", border: "border-t-gray-700" }
           ].map((item, idx) => (
             <Link href="#" key={idx} className={`flex flex-col items-center justify-center p-6 shadow-xl border-t-4 border-l border-r border-b border-gray-200 hover:shadow-2xl transition-all duration-300 cursor-pointer group ${item.bg} ${item.border}`}>
               <item.icon className={`text-3xl md:text-4xl mb-3 ${item.color} group-hover:-translate-y-1 transition-transform`} />

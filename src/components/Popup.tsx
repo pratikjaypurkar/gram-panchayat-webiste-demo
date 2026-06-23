@@ -54,7 +54,7 @@ export default function Popup() {
             unoptimized
           />
           <h2 className="text-2xl md:text-3xl font-bold text-gray-900 tracking-tight">
-            Welcome to Gram Panchayat Portal
+            ग्रामपंचायत पोर्टलवर आपले स्वागत आहे
           </h2>
         </div>
 
@@ -72,7 +72,7 @@ export default function Popup() {
             className="px-10 py-3 bg-[#138808] text-white font-bold tracking-wide uppercase rounded-sm hover:bg-green-800 transition-colors shadow-lg w-full sm:w-auto"
             onClick={() => setHidden(true)}
           >
-            Proceed to Portal
+            पोर्टलवर जा
           </button>
         </div>
 
