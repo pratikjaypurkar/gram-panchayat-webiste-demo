@@ -2,115 +2,115 @@
   "lang": "English",
   "nav": {
     "home": "Home",
-    "about": "About",
-    "biography": "About Village",
-    "political journey": "Development Works",
-    "government schemes": "Government Schemes",
-    "development works": "Development Works",
-    "public services": "Citizen Services",
-    "sports": "Birth Certificate",
-    "agriculture": "Death Certificate",
+    "about": "Introduction",
+    "biography": "Village Info",
+    "political journey": "Dev Works",
+    "government schemes": "Govt Schemes",
+    "development works": "Dev Works",
+    "public services": "Services",
+    "sports": "Birth Cert",
+    "agriculture": "Death Cert",
     "education": "Property Tax",
     "employment": "Water Tax",
-    "healthcare": "Marriage Registration",
-    "media coverage": "Gallery & Media",
+    "healthcare": "Marriage Cert",
+    "media coverage": "Gallery",
     "news": "Notices",
-    "gallery": "Gallery",
-    "assets": "Documents",
+    "gallery": "Photo Gallery",
+    "assets": "Docs & Downloads",
     "contact": "Contact",
     "marathi": "Marathi",
     "english": "English",
     "panchayat": "Panchayat",
     "gram sabha": "Gram Sabha",
-    "representatives": "Representatives",
+    "representatives": "Officials",
     "documents": "Documents",
     "rti": "RTI"
   },
   "main": {
     "hero": {
-      "quote": "सशक्त ग्राम, समृद्ध ग्राम — Empowered Village, Prosperous Village",
-      "para": "Gram Panchayat Savarla is committed to transparent governance, rural development, and delivery of quality citizen services to every household in Savarla village, Pawani Taluka, Bhandara District, Maharashtra.",
-      "learn more": "Citizen Services",
+      "quote": "Gram Panchayat Office Savarla",
+      "para": "Gram Panchayat Office Savarla, Taluka Pawni, Dist Bhandara is a local self-government body working for the holistic development of the village. Our main objective is to provide various government services, development works, and welfare schemes to villagers.",
+      "learn more": "Panchayat Services",
       "get more news": "View Announcements",
-      "subscribe": "Subscribe to Notices & Updates",
-      "input": "Your Phone Number"
+      "subscribe": "Subscribe for updates",
+      "input": "Your Mobile Number"
     },
     "about": {
-      "title": "Gram Panchayat Savarla — Serving Our Village Since 1958",
+      "title": "Gram Panchayat Introduction",
       "sub-title": "About Our Village",
-      "para1": "Gram Panchayat Savarla is the local self-governance body serving the village of Savarla, located in Pawani Taluka, Bhandara District, Maharashtra. Established in 1958, the Panchayat has been working tirelessly to provide essential civic services and foster sustainable development across all wards of the village.",
-      "para2": "Savarla is a vibrant agricultural village with a population of 2,409 residents spread across 502.09 hectares. The village's primary occupation is agriculture, with rice being the main crop. The Panchayat is committed to implementing government welfare schemes, ensuring clean drinking water, proper roads, sanitation, and education for every citizen.",
-      "mission": "Our mission is to ensure transparent, accountable, and responsive governance for the people of Savarla — serving every citizen with dignity and efficiency.",
+      "para1": "Gram Panchayat Office Savarla, Taluka Pawni, Dist Bhandara is working for holistic village development. Established in 1958. Our main objective is to provide various government services, development works, and welfare schemes.",
+      "para2": "Savarla is a progressive and agricultural village in Bhandara district. The main occupation is agriculture, and rice is the main crop. The village is constantly progressing in social, cultural, and educational fields.",
+      "mission": "Gram Panchayat Office Savarla — Committed to transparent administration and village development.",
       "name": "Gram Panchayat Savarla"
     },
     "video": {
-      "title": "Gram Sabha — Community Voice, Community Progress"
+      "title": "Video Gallery — Village Intro & Gram Sabha Videos"
     },
     "facts": {
-      "title": "Village at a Glance",
-      "title2": "Key Facts & Figures — Savarla Village",
+      "title": "Village Information",
+      "title2": "Savarla Village — Key Facts & Figures",
       "experience": {
         "number": "2409",
-        "text": "Total Population"
+        "text": "Population"
       },
       "constituency": {
-        "number": "502",
+        "number": "502.09",
         "text": "Area (Hectares)"
       },
       "voters": {
-        "number": "5",
+        "number": "1958",
         "amount": "",
-        "text": "Wards"
+        "text": "Established"
       },
       "projects": {
-        "number": "50",
-        "text": "Development Projects"
+        "number": "100%",
+        "text": "Agriculture"
       }
     },
     "services": {
-      "title": "Citizen Services",
+      "title": "Panchayat Services",
       "sports": "Birth Certificate",
       "agriculture": "Death Certificate",
       "education": "Property Tax",
       "employment": "Water Tax",
-      "healthcare": "Marriage Registration"
+      "healthcare": "Marriage Reg"
     },
     "political journey": {
-      "title": "Development Milestones",
-      "sub-title": "OUR JOURNEY",
+      "title": "Development Works",
+      "sub-title": "Our Progress",
       "2009": {
         "title": "Jal Jeevan Mission",
-        "para": "Safe drinking water connections provided to every household in Savarla under the Jal Jeevan Mission, ensuring clean water for all 2,409 residents."
+        "para": "Clean drinking water tap connections provided to every household in Savarla village."
       },
       "2014": {
         "title": "Road Development",
-        "para": "Internal village roads constructed and upgraded under PMGSY scheme, improving connectivity and reducing travel time for all wards."
+        "para": "Development works through roads, water supply, sanitation, public facilities, and government schemes."
       },
       "2019": {
         "title": "Swachh Bharat Abhiyan",
-        "para": "Savarla achieved Open Defecation Free (ODF) status. Individual household toilets constructed for every family under Swachh Bharat Mission."
+        "para": "Toilets and cleanliness drives are implemented for every family under Swachh Bharat Mission."
       },
       "2024": {
         "title": "PM Awas Yojana",
-        "para": "Pucca houses constructed for eligible families under PMAY-Gramin, providing shelter and improved living conditions for underprivileged residents."
+        "para": "Financial assistance provided to eligible families to build pucca houses."
       },
       "contact": {
-        "text": "Need Assistance? Contact Gram Panchayat Office",
-        "number": "+91 90214 11174"
+        "text": "Need Help? Contact Us",
+        "number": "9021411174"
       }
     },
     "members": {
-      "title": "Meet Our Representatives",
-      "sub-title": "PANCHAYAT MEMBERS"
+      "title": "Gram Panchayat Officials",
+      "sub-title": "Our Representatives"
     }
   },
   "footer": {
-    "text": "Gram Panchayat Savarla is the local self-governing body of Savarla village, Pawani Taluka, Bhandara District, Maharashtra — committed to transparent governance and village development.",
+    "text": "Gram Panchayat Office Savarla, Taluka Pawni, Dist Bhandara is working for the holistic development of the village.",
     "explore": "Explore",
-    "services": "Citizen Services",
+    "services": "Panchayat Services",
     "contact us": "Contact Us",
     "location": "Office Location",
-    "address": "Mu. Po. Savarla, Taluka Pawani, District Bhandara, Maharashtra - 441910",
+    "address": "At Post Savarla, Taluka Pawni, District Bhandara - 441910",
     "mail us": "Email Us",
     "email": "gpsavarla.pawani@gmail.com",
     "socials": "Connect With Us",
@@ -118,160 +118,148 @@
     "office hours": "Office Hours: Mon–Sat 10:00 AM – 5:00 PM"
   },
   "biography": {
-    "name": "Savarla Village — Pawani, Bhandara",
-    "title": "About Our Village",
+    "name": "Savarla Village — Pawni, Bhandara",
+    "title": "Village Information",
     "section1": {
-      "title": "Village History",
-      "para": "Savarla is a historically significant village in the Pawani Taluka of Bhandara District, Maharashtra. The Gram Panchayat was formally established in 1958, marking the beginning of organized local self-governance. The village has a rich cultural heritage and its residents have traditionally been engaged in agriculture, particularly rice cultivation, taking advantage of the fertile lands and abundant water resources in the region."
+      "title": "Panchayat Introduction",
+      "para": "Gram Panchayat Office Savarla, Taluka Pawni, Dist Bhandara is a local self-government body. The main objective is to provide government services, development works, and welfare schemes. Established: 1958."
     },
     "section2": {
-      "title": "Geography & Demographics",
-      "para": "The village of Savarla spreads across 502.09 hectares of land in the Vidarbha region of Maharashtra. It is located in Pawani Taluka, Bhandara District, with the PIN code 441910. The current population of Savarla is 2,409 residents. The region is known for its agricultural productivity, particularly rice cultivation, and benefits from the Wainganga river basin's fertile soil and water availability."
+      "title": "Village Info",
+      "para": "Savarla is a progressive agricultural village in Bhandara district. The main occupation is agriculture, with rice being the main crop. The village is progressing in social, cultural, and educational fields."
     },
     "section3": {
-      "title": "Agriculture & Economy",
-      "para": "Agriculture is the primary occupation of Savarla's residents, with rice being the main crop. The village also cultivates wheat, pulses, and vegetables. The Gram Panchayat actively supports farmers through various government schemes including PM Kisan Samman Nidhi, crop insurance programs, and agricultural training initiatives. The local economy is supplemented by small-scale businesses and employment under MGNREGA."
+      "title": "Geographical & Economic Info",
+      "para": "Taluka: Pawni, District: Bhandara, PIN: 441910. Population: 2409. Area: 502.09 Hectares. Main Occupation: Agriculture, Main Crop: Rice. Address: At Post Savarla, Tal Pawni, Dist Bhandara."
     }
   },
   "political journey": {
     "title": "Development Works",
-    "para1": "Gram Panchayat Savarla is dedicated to the holistic development of the village through implementation of central and state government schemes, local development initiatives, and community-driven projects:",
-    "para2": "The Panchayat has prioritized infrastructure development, clean water supply, sanitation, housing, road connectivity, and educational facilities. Every development project is undertaken with transparency and accountability, ensuring maximum benefit to all residents.",
+    "para1": "Various development works are being implemented in the village through the Gram Panchayat. This includes roads, water supply, sanitation, public facilities, and various government schemes.",
+    "para2": "Gram Panchayat Office Savarla is committed to the overall development of the village.",
     "journey": {
       "2009": {
-        "title": "Jal Jeevan Mission (Ongoing)",
-        "para": "Functional household tap connections (FHTC) provided to every household in Savarla under PM Jal Jeevan Mission. The project ensures safe, adequate drinking water supply to all 2,409 residents on a daily basis."
+        "title": "Jal Jeevan Mission",
+        "para": "Water tap connections have been provided to every household in Savarla village."
       },
       "2014": {
-        "title": "Road & Infrastructure (Completed)",
-        "para": "Internal village roads, drainage systems, and streetlights have been constructed and upgraded. Road connectivity improved across all 5 wards under PMGSY and state road development funds."
+        "title": "Roads & Infrastructure",
+        "para": "Internal village roads have been constructed and improved for better transportation."
       },
       "2019": {
-        "title": "Swachh Bharat Mission (Completed)",
-        "para": "Savarla achieved Open Defecation Free (ODF) certification. Over 400 household toilets constructed. Regular cleanliness drives, solid waste management systems, and awareness campaigns conducted."
+        "title": "Swachh Bharat Abhiyan",
+        "para": "Cleanliness drives and personal/public toilets have been constructed under the Swachh Bharat Mission."
       },
       "2024": {
-        "title": "PM Awas Yojana Gramin (Ongoing)",
-        "para": "Eligible families receive financial assistance for construction of pucca houses under PMAY-Gramin. The scheme targets families living in kutcha or damaged houses, providing them safe and permanent shelter."
+        "title": "PM Awas Yojana",
+        "para": "Financial assistance is being given to eligible families to build houses under PM Awas Yojana Gramin."
       }
     }
   },
   "services": {
     "sports": {
       "title": "Birth Certificate",
-      "para1": "A Birth Certificate is a vital legal document issued by Gram Panchayat Savarla that officially records the birth of a child. It is mandatory for school admission, passport, Aadhaar card, and other government services. The Gram Panchayat provides this service to all residents within its jurisdiction.",
-      "para2": "Documents Required: Hospital discharge slip or birth proof, Parents' Aadhaar cards, Parents' marriage certificate (if applicable), Completed application form (available at GP office).",
-      "para3": "Process: Submit application at Gram Panchayat office with supporting documents. The Gram Sevak verifies the documents and registers the birth in the official register. A certified birth certificate is issued within 7–15 working days. Births registered within 21 days are free of charge.",
-      "para4": "Fee Structure: Registration within 21 days — Free. Registration between 21 days and 30 days — ₹2. Registration after 30 days requires approval from Tehsil office.",
-      "para5": "Contact: For Birth Certificate services, visit Gram Panchayat Office, Savarla during office hours (Monday to Saturday, 10:00 AM – 5:00 PM) or call: 9021411174.",
-      "para6": "You can also apply through the Maharashtra Online portal (aaplesarkar.mahaonline.gov.in) or your nearest Common Service Centre (CSC)."
+      "para1": "The following services are available: Birth Certificate.",
+      "para2": "Required for official registration of a child's birth.",
+      "para3": "Process: Submit application at the GP office with necessary documents.",
+      "para4": "Fee Structure: Registration within 21 days — Free.",
+      "para5": "Contact: Gram Panchayat Office, Savarla - 9021411174.",
+      "para6": "Online facility is also available."
     },
     "agriculture": {
       "title": "Death Certificate",
-      "para1": "A Death Certificate is an official document issued by Gram Panchayat Savarla recording the death of a person. It is required for claiming insurance, transferring property, settling bank accounts, pension claims, and other legal processes.",
+      "para1": "The following services are available: Death Certificate.",
       "section1": {
         "title": "Documents Required",
-        "para": "To obtain a Death Certificate, the following documents must be submitted: Hospital death certificate or doctor's certificate, Deceased person's Aadhaar card, Informant's Aadhaar card (family member), Completed application form available at the GP office, Address proof of the deceased."
+        "para": "Death certificate, Aadhaar card, and application."
       },
       "section2": {
         "title": "Registration Process",
-        "para": "Death registration must be done within 21 days of death. Submit the application with required documents to the Gram Panchayat office. The Gram Sevak will verify documents and record the death in the official register. Certificate is issued within 7 working days of application."
+        "para": "Submit application at Gram Panchayat office."
       },
       "section3": {
         "title": "Fee Structure",
-        "para": "Registration within 21 days — Free. Registration between 21 and 30 days — ₹2. Registration after 30 days — ₹5 with approval from competent authority. Certified copies of death certificate — ₹5 per copy."
+        "para": "Registration within 21 days — Free."
       },
       "section4": {
         "title": "Online Services",
-        "para": "Death certificates can also be obtained through the Maharashtra Online portal at aaplesarkar.mahaonline.gov.in or through any Common Service Centre (CSC) in your area. Track your application status online using the application reference number."
+        "para": "Online facility is also available."
       },
       "section5": {
         "title": "Contact & Office Hours",
-        "para": "Visit Gram Panchayat Office, Savarla, Mon–Sat: 10:00 AM to 5:00 PM. Phone: 9021411174. For urgent cases, contact Gram Sevak: Shri L.B. Latpate at 9021411174."
+        "para": "Gram Panchayat Office, Savarla - 9021411174."
       },
-      "para2": "The Gram Panchayat is committed to providing timely and hassle-free death certificate services to all residents. Our office staff is available to assist you with any queries or documentation guidance."
+      "para2": "Contact the office for more information."
     },
     "employment": {
       "title": "Water Tax",
-      "para1": "Water Tax (Pani Kar) is levied by Gram Panchayat Savarla for providing clean piped water supply to all households in the village. The tax collected is used to maintain the water distribution infrastructure, pay for electricity used in pumping, and fund repairs and upgrades to the water supply system.",
-      "para2": "Water tax is essential for the sustainable operation of the village's water supply system. Regular payment ensures uninterrupted water supply to your household. Defaulters may face disconnection of water supply as per Panchayat rules.",
-      "para3": "Payment Rates: Residential connections — ₹50 per month. Commercial connections — ₹100 per month. Institutional connections — ₹150 per month. Late payment penalty — ₹10 per month after due date.",
-      "para4": "How to Pay: Visit the Gram Panchayat office during office hours with your previous payment receipt. Water tax can also be paid online through the Maharashtra Grampanchayat portal. Annual payment option available with a 5% discount.",
-      "para5": "The collected water tax funds are utilized exclusively for: Water tank maintenance and cleaning, Pipeline repairs and upgrades, Pump house electricity bills, New water connections for eligible households, Quality testing of water supply."
+      "para1": "The following services are available: Water Tax Collection.",
+      "para2": "Water tax is necessary for the operation of the village water supply system.",
+      "para3": "Payment Rates: As per rules.",
+      "para4": "How to Pay: Visit the Gram Panchayat office.",
+      "para5": "The collected water tax fund is used for water facilities."
     },
     "education": {
       "title": "Property Tax",
-      "para1": "Property Tax (Ghar Patti / Sampatti Kar) is a mandatory tax levied by Gram Panchayat Savarla on all properties within the village — residential, commercial, and institutional. The funds collected are used for village development, road maintenance, street lighting, sanitation, and other public services.",
-      "para2": "Property tax assessment is conducted every 5 years by the Gram Panchayat. The tax amount is calculated based on the Annual Rateable Value (ARV) of the property, its size, type of construction, and location within the village.",
-      "para3": "Tax Rates: Residential (Pucca) — 0.5% of ARV per year. Residential (Semi-Pucca) — 0.25% of ARV per year. Commercial property — 1% of ARV per year. Government buildings — Exempt. Religious buildings — Exempt.",
-      "para4": "Property tax must be paid annually by March 31st. Advance payment for the full year before June 30th attracts a 10% rebate. Late payments attract a 2% penalty per month on the outstanding amount.",
-      "para5": "Documents for New Property Registration: Property deed / sale document, Construction completion certificate, No Objection Certificate (NOC) from Panchayat, Aadhaar card of owner. Visit the GP office or call 9021411174 for property tax assessment and payment."
+      "para1": "The following services are available: Property Tax Collection.",
+      "para2": "Property tax is essential for village development.",
+      "para3": "Tax Rates: As per Gram Panchayat rules.",
+      "para4": "Property tax must be paid annually.",
+      "para5": "Visit the Gram Panchayat office for property tax payment."
     },
     "healthcare": {
       "title": "Marriage Registration",
       "section1": {
         "title": "Registration Requirements",
-        "para": "Marriage registration is a legal requirement in India. Gram Panchayat Savarla registers marriages under the Hindu Marriage Act, 1955 and Special Marriage Act, 1954. A Marriage Certificate is essential for passport, joint bank accounts, property matters, visa applications, and insurance claims."
+        "para": "Marriage registration is an important service provided by the Gram Panchayat."
       },
       "section2": {
         "title": "Documents Required",
-        "para": "For marriage registration at the Gram Panchayat: Completed application form, Aadhaar cards of both bride and groom, Age proof (birth certificate, school leaving certificate), Address proof, Passport-size photographs of both parties (3 each), 2 witnesses with Aadhaar cards, Marriage invitation card (if available), Affidavit of marriage date and place."
+        "para": "Aadhaar cards of bride and groom, age proof, and photos."
       },
       "section3": {
         "title": "Registration Process",
-        "para": "Application must be submitted within 90 days of marriage. Visit the Gram Panchayat office with all required documents. Both bride and groom must be present along with 2 witnesses. The Gram Sevak verifies documents and records the marriage. Marriage certificate is issued within 30 working days."
+        "para": "Visit the GP office and submit the application."
       },
       "section4": {
         "title": "Fee & Contact",
-        "para": "Marriage registration fee: ₹100. Certificate copy fee: ₹25 per copy. Contact: Gram Panchayat Office, Savarla. Phone: 9021411174. Office hours: Monday to Saturday, 10:00 AM to 5:00 PM. Gram Sevak: Shri L.B. Latpate"
+        "para": "Gram Panchayat Office, Savarla - 9021411174."
       },
       "section5": {
-        "title": "Online Marriage Registration",
-        "para": "Maharashtra government provides online marriage registration through the Aaplen Sarkar portal (aaplesarkar.mahaonline.gov.in). You can apply online, upload documents, and track your application status. The certificate is sent by speed post to your registered address."
+        "title": "Other Government Services",
+        "para": "Construction permits and other government services are also available."
       }
     }
   },
   "news": {
-    "title": "Notices & Announcements",
-    "line": "Stay updated with the latest notices, announcements, and news from Gram Panchayat Savarla.",
+    "title": "Documents & Downloads",
+    "line": "Important documents and information of the Gram Panchayat.",
     "articles": {
-      "1": {
-        "title": "Gram Sabha Meeting — All residents are requested to attend the quarterly Gram Sabha meeting to be held at the Panchayat Office."
-      },
-      "2": {
-        "title": "PM Awas Yojana — Applications are being accepted for PM Awas Yojana Gramin. Eligible families may submit applications at the GP office by the deadline."
-      },
-      "3": {
-        "title": "Property Tax Payment — Annual property tax payment deadline is approaching. Residents are requested to pay before March 31 to avail the 10% rebate."
-      },
-      "4": {
-        "title": "Jal Jeevan Mission Update — New pipeline work in progress in Ward No. 3. Residents may experience temporary water supply disruption."
-      },
-      "5": {
-        "title": "Swachh Bharat — Village cleanliness drive scheduled every Sunday at 7:00 AM. All residents are requested to participate."
-      },
-      "6": {
-        "title": "Health Camp — Free health check-up and medicine distribution camp organized by Primary Health Centre, Pawani at the GP office."
-      }
+      "1": { "title": "Gram Sabha Resolutions — New resolutions are available." },
+      "2": { "title": "Annual Report — View the annual report of the Gram Panchayat." },
+      "3": { "title": "Budget — Development works budget is available." },
+      "4": { "title": "Audit Report — Annual audit report." },
+      "5": { "title": "Tenders — Tender notices for new development works." },
+      "6": { "title": "Important Forms — Important forms required for various services." }
     },
     "read more": "Read More"
   },
   "gallery": {
     "title": "Photo Gallery",
-    "sub-title": "Savarla Village — Development & Community Life"
+    "sub-title": "Village photos, Office photos, Event photos, and Development works photos"
   },
   "contact us": {
     "title": "Contact Us",
     "msg": "Send Your Message",
-    "line": "Fill out this form to send your queries, complaints, or suggestions to Gram Panchayat Savarla.",
-    "phone": "+91 90214 11174",
-    "address": "Gram Panchayat Office, Mu. Po. Savarla, Taluka Pawani, District Bhandara, Maharashtra - 441910",
+    "line": "Fill out this form to send your questions or suggestions to the Gram Panchayat office.",
+    "phone": "9021411174",
+    "address": "At Post Savarla, Tal Pawni, Dist Bhandara - 441910",
     "form": {
       "first name": "First Name",
       "last name": "Last Name",
       "email": "Email",
-      "phone": "Phone Number",
-      "message": "Message / Complaint",
+      "phone": "Mobile Number",
+      "message": "Message",
       "send message": "Send Message",
       "sending": "Sending...",
       "city": "Village / City"
@@ -279,110 +267,110 @@
   },
   "government schemes": {
     "title": "Government Schemes",
-    "para1": "Gram Panchayat Savarla actively implements various Central and State Government welfare schemes to improve the quality of life of every resident. These schemes cover housing, employment, water supply, sanitation, agriculture, women welfare, education, and health.",
-    "para2": "To apply for any scheme, residents can visit the Gram Panchayat office with required documents. The Gram Sevak and staff will assist you in the application process. Many schemes can also be applied through the Aaplen Sarkar online portal or the nearest Common Service Centre (CSC).",
-    "para3": "Gram Panchayat Savarla is committed to ensuring that every eligible resident receives the benefits of government schemes. Regular Gram Sabha meetings are held to inform residents about new schemes and their eligibility criteria.",
-    "small-title": "Currently active schemes in Savarla village:",
-    "main-scheme": "PM Awas Yojana Gramin — Pucca houses for eligible families",
-    "scheme1": "PM Awas Yojana Gramin (PMAY-G) — Housing for All",
-    "scheme2": "MGNREGA — Employment guarantee for rural families",
-    "scheme3": "Jal Jeevan Mission — Piped water to every household",
-    "scheme4": "Swachh Bharat Mission Gramin — Clean India, Healthy India",
-    "scheme5": "PM Kisan Samman Nidhi — Income support for farmers"
+    "para1": "Information and benefits of various government schemes are made available to the villagers.",
+    "para2": "Contact the Gram Panchayat office to avail these schemes.",
+    "para3": "Gram Panchayat Savarla is committed to implementing government schemes.",
+    "small-title": "Active Schemes:",
+    "main-scheme": "PM Awas Yojana",
+    "scheme1": "MGNREGA",
+    "scheme2": "Jal Jeevan Mission",
+    "scheme3": "Swachh Bharat Abhiyan",
+    "scheme4": "Other Schemes",
+    "scheme5": "Farmer Welfare Schemes"
   },
   "development works": {
     "title": "Development Works",
-    "title2": "Building a Better Savarla for Future Generations",
-    "para1": "Gram Panchayat Savarla is committed to sustainable village development through planned infrastructure projects, government scheme implementation, and community participation. Every rupee of public fund is utilized transparently for the benefit of all residents.",
+    "title2": "Various Development Works in the Village",
+    "para1": "Various development works are being implemented in the village through the Gram Panchayat.",
     "movement": "Village Development in Progress",
-    "para2": "Savarla is witnessing significant development across all sectors — water supply, roads, sanitation, housing, and community infrastructure. We invite all residents to participate in the development process through Gram Sabha meetings.",
-    "care": "We Care About Every Household",
-    "para3": "The Gram Panchayat ensures that development benefits reach every ward and every family — from infrastructure to welfare schemes, from clean water to quality education. No resident is left behind.",
-    "para4": "Gram Panchayat Savarla has been implementing various development projects under Central and State Government schemes. Here is an overview of the key development areas:",
+    "para2": "This includes development works through roads, water supply, sanitation, public facilities, and various government schemes.",
+    "care": "Holistic Development",
+    "para3": "The Gram Panchayat is committed to the overall development of the village.",
+    "para4": "Here is an overview of the key development areas:",
     "development": {
       "1": {
-        "title1": "Infrastructure Development",
-        "title2": "Roads & Connectivity:",
-        "title3": "Drainage & Sewerage:",
-        "para1": "Internal village roads have been constructed and upgraded across all 5 wards. The roads are built under PMGSY (Pradhan Mantri Gram Sadak Yojana) ensuring all-weather connectivity. Street lighting has been installed at key locations.",
-        "para2": "Drainage systems and sewerage networks have been developed to prevent waterlogging and maintain village hygiene. Regular maintenance ensures proper functioning throughout the year."
+        "title1": "Roads & Sanitation",
+        "title2": "Road Development:",
+        "title3": "Cleanliness Drive:",
+        "para1": "Internal village roads have been constructed and upgraded.",
+        "para2": "Cleanliness is being maintained in the village under the Swachh Bharat Abhiyan."
       },
       "2": {
         "title1": "Water Supply",
         "title2": "Jal Jeevan Mission:",
-        "para1": "Under the Jal Jeevan Mission, functional household tap connections have been provided to every household in Savarla. The water supply infrastructure includes a water tank, distribution pipeline network, and pumping station. Quality testing of water is conducted regularly to ensure safe drinking water for all 2,409 residents."
+        "para1": "Tap connections have been provided to every household in Savarla under the Jal Jeevan Mission."
       },
       "3": {
-        "title1": "Housing (PM Awas Yojana)",
-        "para1": "Under PM Awas Yojana Gramin, eligible families have received financial assistance for construction of pucca (permanent) houses. The scheme targets SC/ST households, BPL families, and those living in kutcha structures. Applications are accepted at the Gram Panchayat office."
+        "title1": "Public Facilities",
+        "para1": "Public facilities are being provided through various government schemes."
       }
     }
   },
-  "quote1": "सशक्त ग्राम, समृद्ध ग्राम — Empowered Village, Prosperous Village",
-  "quote2": "ग्रामपंचायत सावरला आपल्या सेवेत",
+  "quote1": "Gram Panchayat Office Savarla",
+  "quote2": "At Your Service",
   "join": "Know Your Rights",
   "emergency": {
     "title": "Emergency Contacts",
-    "police": "Police Station, Pawani",
+    "police": "Police Station",
     "police_num": "07185 255 223",
-    "phc": "Primary Health Centre, Pawani",
-    "phc_num": "07185 252 XXX",
-    "ambulance": "Ambulance (108)",
+    "phc": "Primary Health Centre",
+    "phc_num": "07185",
+    "ambulance": "Ambulance Service",
     "ambulance_num": "108",
     "fire": "Fire Department",
     "fire_num": "101",
-    "tehsil": "Tehsil Office, Pawani",
-    "tehsil_num": "07185 255 XXX"
+    "tehsil": "Tehsil Office",
+    "tehsil_num": "07185"
   },
   "officials": {
     "sarpanch": {
       "title": "Sarpanch",
-      "name": "Smt. Padmita Gangadhar Bhajipale",
+      "name": "Sou. Padmita Gangadhar Bhajipale",
       "mobile": "7888237514"
     },
     "upsarpanch": {
-      "title": "Up-Sarpanch",
-      "name": "Shri Uttamrao Vaman Savarbhande",
+      "title": "Upsarpanch",
+      "name": "Shri. Uttamrao Vaman Savarbandhe",
       "mobile": "9765519079"
     },
     "gramsevak": {
-      "title": "Gram Sevak",
-      "name": "Shri L.B. Latpate",
+      "title": "Gramsevak",
+      "name": "Shri. L. B. Latpate",
       "mobile": "9021411174"
     },
     "member1": {
-      "title": "Member — Gandhi Ward",
-      "name": "Smt. Shevanta Dhanraj Khegi",
+      "title": "Member (Gandhi Ward)",
+      "name": "Shevanta Dhanraj Khegi",
       "mobile": "9764936454"
     },
     "staff": {
-      "title": "Staff",
-      "name": "Shri Pramod Nanaji Suryavanshi",
-      "designation": "Shipai (Peon)",
+      "title": "Peon",
+      "name": "Pramod Nanaji Suryavanshi",
+      "designation": "Peon",
       "mobile": "8552951811"
     }
   },
   "chatbot": {
     "welcome": "Hello! I am the Gram Panchayat Savarla Assistant. How can I help you?",
     "questions": {
-      "birth_cert": "How to get Birth Certificate?",
-      "death_cert": "How to get Death Certificate?",
-      "office_hours": "Office Hours?",
-      "contact": "Contact Number?",
-      "water_tax": "Water Tax Payment?",
-      "property_tax": "Property Tax?",
-      "schemes": "Government Schemes?",
-      "gram_sabha": "Gram Sabha Schedule?"
+      "birth_cert": "How to get a Birth Certificate?",
+      "death_cert": "How to get a Death Certificate?",
+      "office_hours": "What are the office hours?",
+      "contact": "What is the contact number?",
+      "water_tax": "How to pay water tax?",
+      "property_tax": "How to pay property tax?",
+      "schemes": "What are the government schemes?",
+      "gram_sabha": "When is the Gram Sabha?"
     },
     "answers": {
-      "birth_cert": "For a Birth Certificate, visit our office Mon–Sat 10AM–5PM with: Hospital birth proof, Parents' Aadhaar cards. The certificate is issued within 7–15 working days. Registration within 21 days is FREE. Call: 9021411174",
-      "death_cert": "For a Death Certificate, visit the GP office with: Hospital death certificate, Deceased's Aadhaar, Informant's Aadhaar. Certificate issued within 7 working days. Fee: Free within 21 days. Call: 9021411174",
-      "office_hours": "Gram Panchayat Office Hours: Monday to Saturday — 10:00 AM to 5:00 PM. Closed on Sundays and Government Holidays. Address: Mu. Po. Savarla, Pawani, Bhandara.",
-      "contact": "Gram Panchayat Office: 9021411174 | Sarpanch Smt. Padmita Bhajipale: 7888237514 | Gram Sevak Shri L.B. Latpate: 9021411174 | Up-Sarpanch Shri Uttamrao Savarbhande: 9765519079",
-      "water_tax": "Water Tax: Residential — ₹50/month, Commercial — ₹100/month. Pay at the GP office or online at Maharashtra Grampanchayat portal. Annual payment gives 5% discount. Contact: 9021411174",
-      "property_tax": "Property Tax is collected annually. Residential (Pucca) — 0.5% of ARV/year. Pay before March 31 for 10% rebate. Visit GP office with previous receipts. Contact: 9021411174",
-      "schemes": "Active Schemes: 1) PM Awas Yojana (Housing) 2) MGNREGA (Employment) 3) Jal Jeevan Mission (Water) 4) Swachh Bharat (Sanitation) 5) PM Kisan (Farming). Visit GP office for applications.",
-      "gram_sabha": "Gram Sabha is held quarterly (April, July, October, January). All residents are invited. Date and agenda are announced 15 days prior. Decisions are made collectively for village development."
+      "birth_cert": "Please contact the Gram Panchayat office for a Birth Certificate.",
+      "death_cert": "Please contact the Gram Panchayat office for a Death Certificate.",
+      "office_hours": "Office Hours: Mon–Sat 10:00 AM to 5:00 PM.",
+      "contact": "Contact: Gram Panchayat Office - 9021411174.",
+      "water_tax": "Water tax can be paid at the Gram Panchayat office.",
+      "property_tax": "Property tax can be paid at the Gram Panchayat office.",
+      "schemes": "Schemes: PM Awas Yojana, MGNREGA, Jal Jeevan Mission, Swachh Bharat Abhiyan.",
+      "gram_sabha": "Information regarding Gram Sabha is available at the office."
     }
   }
 }
