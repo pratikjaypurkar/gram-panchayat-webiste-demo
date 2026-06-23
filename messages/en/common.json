@@ -1,376 +1,376 @@
 {
-  "lang": "English",
+  "lang": "मराठी",
   "nav": {
-    "home": "Home",
-    "about": "Introduction",
-    "biography": "Village Info",
-    "political journey": "Dev Works",
-    "government schemes": "Govt Schemes",
-    "development works": "Dev Works",
-    "public services": "Services",
-    "sports": "Birth Cert",
-    "agriculture": "Death Cert",
-    "education": "Property Tax",
-    "employment": "Water Tax",
-    "healthcare": "Marriage Cert",
-    "media coverage": "Gallery",
-    "news": "Notices",
-    "gallery": "Photo Gallery",
-    "assets": "Docs & Downloads",
-    "contact": "Contact",
-    "marathi": "Marathi",
-    "english": "English",
-    "panchayat": "Panchayat",
-    "gram sabha": "Gram Sabha",
-    "representatives": "Officials",
-    "documents": "Documents",
-    "rti": "RTI"
+    "home": "मुख्यपृष्ठ",
+    "about": "परिचय",
+    "biography": "गावाची माहिती",
+    "political journey": "विकास कामे",
+    "government schemes": "शासकीय योजना",
+    "development works": "विकास कामे",
+    "public services": "ग्रामपंचायत सेवा",
+    "sports": "जन्म दाखला",
+    "agriculture": "मृत्यू दाखला",
+    "education": "मालमत्ता कर",
+    "employment": "पाणी कर",
+    "healthcare": "विवाह नोंदणी",
+    "media coverage": "गॅलरी",
+    "news": "जाहिराती",
+    "gallery": "फोटो गॅलरी",
+    "assets": "दस्तऐवज व डाउनलोड्स",
+    "contact": "संपर्क",
+    "marathi": "मराठी",
+    "english": "इंग्रजी",
+    "panchayat": "पंचायत",
+    "gram sabha": "ग्रामसभा",
+    "representatives": "पदाधिकारी",
+    "documents": "दस्तऐवज",
+    "rti": "आरटीआय"
   },
   "main": {
     "hero": {
-      "quote": "Gram Panchayat Office Savarla",
-      "para": "Gram Panchayat Office Savarla, Taluka Pawni, Dist Bhandara is a local self-government body working for the holistic development of the village. Our main objective is to provide various government services, development works, and welfare schemes to villagers.",
-      "learn more": "Panchayat Services",
-      "get more news": "View Announcements",
-      "subscribe": "Subscribe for updates",
-      "input": "Your Mobile Number"
+      "quote": "ग्रामपंचायत कार्यालय सावरला",
+      "para": "ग्रामपंचायत कार्यालय सावरला, ता. पवनी, जि. भंडारा ही गावाच्या सर्वांगीण विकासासाठी कार्यरत स्थानिक स्वराज्य संस्था आहे. ग्रामस्थांना विविध शासकीय सेवा, विकासकामे आणि कल्याणकारी योजनांचा लाभ उपलब्ध करून देणे हे ग्रामपंचायतीचे मुख्य उद्दिष्ट आहे.",
+      "learn more": "ग्रामपंचायत सेवा",
+      "get more news": "जाहिराती पाहा",
+      "subscribe": "सूचना व अपडेट्ससाठी सदस्यता घ्या",
+      "input": "आपला मोबाईल नंबर"
     },
     "about": {
-      "title": "Gram Panchayat Introduction",
-      "sub-title": "About Our Village",
-      "para1": "Gram Panchayat Office Savarla, Taluka Pawni, Dist Bhandara is working for holistic village development. Established in 1958. Our main objective is to provide various government services, development works, and welfare schemes.",
-      "para2": "Savarla is a progressive and agricultural village in Bhandara district. The main occupation is agriculture, and rice is the main crop. The village is constantly progressing in social, cultural, and educational fields.",
-      "mission": "Gram Panchayat Office Savarla — Committed to transparent administration and village development.",
-      "name": "Gram Panchayat Savarla"
+      "title": "ग्रामपंचायत परिचय",
+      "sub-title": "आमच्या गावाबद्दल",
+      "para1": "ग्रामपंचायत कार्यालय सावरला, ता. पवनी, जि. भंडारा ही गावाच्या सर्वांगीण विकासासाठी कार्यरत स्थानिक स्वराज्य संस्था आहे. स्थापना वर्ष: १९५८. ग्रामस्थांना विविध शासकीय सेवा, विकासकामे आणि कल्याणकारी योजनांचा लाभ उपलब्ध करून देणे हे ग्रामपंचायतीचे मुख्य उद्दिष्ट आहे.",
+      "para2": "सावरला हे भंडारा जिल्ह्यातील एक प्रगतशील व कृषीप्रधान गाव आहे. गावातील बहुतांश नागरिकांचा मुख्य व्यवसाय शेती असून भात हे प्रमुख पीक आहे. गावात सामाजिक, सांस्कृतिक आणि शैक्षणिक क्षेत्रात सातत्याने प्रगती होत आहे.",
+      "mission": "ग्रामपंचायत कार्यालय सावरला — पारदर्शक प्रशासन आणि ग्राम विकासासाठी वचनबद्ध.",
+      "name": "ग्रामपंचायत सावरला"
     },
     "video": {
-      "title": "Video Gallery — Village Intro & Gram Sabha Videos"
+      "title": "व्हिडिओ गॅलरी — गाव परिचय व ग्रामसभा व्हिडिओ"
     },
     "facts": {
-      "title": "Village Information",
-      "title2": "Savarla Village — Key Facts & Figures",
+      "title": "गावाची माहिती",
+      "title2": "सावरला गाव — मुख्य तथ्ये व आकडेवारी",
       "experience": {
-        "number": "2409",
-        "text": "Population"
+        "number": "२४०९",
+        "text": "लोकसंख्या"
       },
       "constituency": {
-        "number": "502.09",
-        "text": "Area (Hectares)"
+        "number": "५०२.०९",
+        "text": "क्षेत्रफळ (हेक्टर)"
       },
       "voters": {
-        "number": "1958",
+        "number": "१९५८",
         "amount": "",
-        "text": "Established"
+        "text": "स्थापना वर्ष"
       },
       "projects": {
-        "number": "100%",
-        "text": "Agriculture"
+        "number": "१००%",
+        "text": "शेती व्यवसाय"
       }
     },
     "services": {
-      "title": "Panchayat Services",
-      "sports": "Birth Certificate",
-      "agriculture": "Death Certificate",
-      "education": "Property Tax",
-      "employment": "Water Tax",
-      "healthcare": "Marriage Reg"
+      "title": "ग्रामपंचायत सेवा",
+      "sports": "जन्म दाखला",
+      "agriculture": "मृत्यू दाखला",
+      "education": "मालमत्ता कर",
+      "employment": "पाणी कर",
+      "healthcare": "विवाह नोंदणी"
     },
     "political journey": {
-      "title": "Development Works",
-      "sub-title": "Our Progress",
+      "title": "विकास कामे",
+      "sub-title": "प्रगतीची वाटचाल",
       "2009": {
-        "title": "Jal Jeevan Mission",
-        "para": "Clean drinking water tap connections provided to every household in Savarla village."
+        "title": "जल जीवन मिशन",
+        "para": "जल जीवन मिशन अंतर्गत सावरला गावातील प्रत्येक घरापर्यंत स्वच्छ पिण्याच्या पाण्याची नळजोडणी पुरवण्यात आली आहे."
       },
       "2014": {
-        "title": "Road Development",
-        "para": "Development works through roads, water supply, sanitation, public facilities, and government schemes."
+        "title": "रस्ते विकास",
+        "para": "रस्ते, पाणीपुरवठा, स्वच्छता, सार्वजनिक सुविधा तसेच विविध शासकीय योजनांच्या माध्यमातून विकासकामे."
       },
       "2019": {
-        "title": "Swachh Bharat Abhiyan",
-        "para": "Toilets and cleanliness drives are implemented for every family under Swachh Bharat Mission."
+        "title": "स्वच्छ भारत अभियान",
+        "para": "स्वच्छ भारत मिशन अंतर्गत प्रत्येक कुटुंबासाठी शौचालय व गावात स्वच्छता मोहीम राबवण्यात येत आहे."
       },
       "2024": {
-        "title": "PM Awas Yojana",
-        "para": "Financial assistance provided to eligible families to build pucca houses."
+        "title": "प्रधानमंत्री आवास योजना",
+        "para": "प्रधानमंत्री आवास योजना अंतर्गत पात्र कुटुंबांना पक्के घर बांधण्यासाठी लाभ दिला जातो."
       },
       "contact": {
-        "text": "Need Help? Contact Us",
-        "number": "9021411174"
+        "text": "मदत हवी आहे? संपर्क साधा",
+        "number": "९०२१४१११७४"
       }
     },
     "members": {
-      "title": "Gram Panchayat Officials",
-      "sub-title": "Our Representatives"
+      "title": "ग्रामपंचायत पदाधिकारी",
+      "sub-title": "आमचे प्रतिनिधी"
     }
   },
   "footer": {
-    "text": "Gram Panchayat Office Savarla, Taluka Pawni, Dist Bhandara is working for the holistic development of the village.",
-    "explore": "Explore",
-    "services": "Panchayat Services",
-    "contact us": "Contact Us",
-    "location": "Office Location",
-    "address": "At Post Savarla, Taluka Pawni, District Bhandara - 441910",
-    "mail us": "Email Us",
+    "text": "ग्रामपंचायत कार्यालय सावरला, ता. पवनी, जि. भंडारा ही गावाच्या सर्वांगीण विकासासाठी कार्यरत स्थानिक स्वराज्य संस्था आहे.",
+    "explore": "अन्वेषण",
+    "services": "ग्रामपंचायत सेवा",
+    "contact us": "आमच्याशी संपर्क साधा",
+    "location": "कार्यालयाचे ठिकाण",
+    "address": "मु. पो. सावरला, ता. पवनी, जि. भंडारा - ४४१९१०",
+    "mail us": "ईमेल करा",
     "email": "gpsavarla.pawani@gmail.com",
-    "socials": "Connect With Us",
-    "phone": "9021411174",
-    "office hours": "Office Hours: Mon–Sat 10:00 AM – 5:00 PM"
+    "socials": "आमच्याशी जुळा",
+    "phone": "९०२१४१११७४",
+    "office hours": "कार्यालय वेळ: सोम–शनि सकाळी १०:०० ते सायंकाळी ५:००"
   },
   "biography": {
-    "name": "Savarla Village — Pawni, Bhandara",
-    "title": "Village Information",
+    "name": "सावरला गाव — पवनी, भंडारा",
+    "title": "गावाची माहिती",
     "section1": {
-      "title": "Panchayat Introduction",
-      "para": "Gram Panchayat Office Savarla, Taluka Pawni, Dist Bhandara is a local self-government body. The main objective is to provide government services, development works, and welfare schemes. Established: 1958."
+      "title": "ग्रामपंचायत परिचय",
+      "para": "ग्रामपंचायत कार्यालय सावरला, ता. पवनी, जि. भंडारा ही गावाच्या सर्वांगीण विकासासाठी कार्यरत स्थानिक स्वराज्य संस्था आहे. ग्रामस्थांना विविध शासकीय सेवा, विकासकामे आणि कल्याणकारी योजनांचा लाभ उपलब्ध करून देणे हे ग्रामपंचायतीचे मुख्य उद्दिष्ट आहे. स्थापना वर्ष: १९५८."
     },
     "section2": {
-      "title": "Village Info",
-      "para": "Savarla is a progressive agricultural village in Bhandara district. The main occupation is agriculture, with rice being the main crop. The village is progressing in social, cultural, and educational fields."
+      "title": "गावाची माहिती",
+      "para": "सावरला हे भंडारा जिल्ह्यातील एक प्रगतशील व कृषीप्रधान गाव आहे. गावातील बहुतांश नागरिकांचा मुख्य व्यवसाय शेती असून भात हे प्रमुख पीक आहे. गावात सामाजिक, सांस्कृतिक आणि शैक्षणिक क्षेत्रात सातत्याने प्रगती होत आहे."
     },
     "section3": {
-      "title": "Geographical & Economic Info",
-      "para": "Taluka: Pawni, District: Bhandara, PIN: 441910. Population: 2409. Area: 502.09 Hectares. Main Occupation: Agriculture, Main Crop: Rice. Address: At Post Savarla, Tal Pawni, Dist Bhandara."
+      "title": "भौगोलिक व आर्थिक माहिती",
+      "para": "तालुका: पवनी, जिल्हा: भंडारा, पिन कोड: ४४१९१०. लोकसंख्या: २४०९. एकूण क्षेत्रफळ: ५०२.०९ हेक्टर. मुख्य व्यवसाय: शेती, प्रमुख पीक: भात. पत्ता: मु. पो. सावरला, ता. पवनी, जि. भंडारा."
     }
   },
   "political journey": {
-    "title": "Development Works",
-    "para1": "Various development works are being implemented in the village through the Gram Panchayat. This includes roads, water supply, sanitation, public facilities, and various government schemes.",
-    "para2": "Gram Panchayat Office Savarla is committed to the overall development of the village.",
+    "title": "विकास कामे",
+    "para1": "ग्रामपंचायतमार्फत गावात विविध विकासकामे राबविण्यात येत आहेत. यामध्ये रस्ते, पाणीपुरवठा, स्वच्छता, सार्वजनिक सुविधा तसेच विविध शासकीय योजनांच्या माध्यमातून विकासकामे केली जात आहेत.",
+    "para2": "ग्रामपंचायत कार्यालय सावरला गावाच्या सर्वांगीण विकासासाठी कटिबद्ध आहे.",
     "journey": {
       "2009": {
-        "title": "Jal Jeevan Mission",
-        "para": "Water tap connections have been provided to every household in Savarla village."
+        "title": "जल जीवन मिशन",
+        "para": "जल जीवन मिशन अंतर्गत सावरला गावातील प्रत्येक घरापर्यंत पाण्याची नळजोडणी उपलब्ध करून देण्यात आली आहे."
       },
       "2014": {
-        "title": "Roads & Infrastructure",
-        "para": "Internal village roads have been constructed and improved for better transportation."
+        "title": "रस्ते व पायाभूत सुविधा",
+        "para": "गावांतर्गत रस्ते बांधणी व सुधारणा करून दळणवळण व्यवस्था सुलभ करण्यात आली आहे."
       },
       "2019": {
-        "title": "Swachh Bharat Abhiyan",
-        "para": "Cleanliness drives and personal/public toilets have been constructed under the Swachh Bharat Mission."
+        "title": "स्वच्छ भारत अभियान",
+        "para": "स्वच्छ भारत मिशन अंतर्गत गावात स्वच्छता मोहीम राबवून वैयक्तिक व सार्वजनिक स्वच्छतागृहे उभारण्यात आली आहेत."
       },
       "2024": {
-        "title": "PM Awas Yojana",
-        "para": "Financial assistance is being given to eligible families to build houses under PM Awas Yojana Gramin."
+        "title": "प्रधानमंत्री आवास योजना",
+        "para": "प्रधानमंत्री आवास योजना ग्रामीण अंतर्गत पात्र कुटुंबांना घरे बांधण्यासाठी आर्थिक मदत दिली जात आहे."
       }
     }
   },
   "services": {
     "sports": {
-      "title": "Birth Certificate",
-      "para1": "The following services are available: Birth Certificate.",
-      "para2": "Required for official registration of a child's birth.",
-      "para3": "Process: Submit application at the GP office with necessary documents.",
-      "para4": "Fee Structure: Registration within 21 days — Free.",
-      "para5": "Contact: Gram Panchayat Office, Savarla - 9021411174.",
-      "para6": "Online facility is also available."
+      "title": "जन्म दाखला",
+      "para1": "ग्रामपंचायतमार्फत खालील सेवा उपलब्ध आहेत: जन्म दाखला.",
+      "para2": "मुलाच्या जन्माची अधिकृत नोंदणी करण्यासाठी जन्म दाखला आवश्यक आहे.",
+      "para3": "प्रक्रिया: आवश्यक कागदपत्रांसह ग्रामपंचायत कार्यालयात अर्ज सादर करा.",
+      "para4": "शुल्क रचना: २१ दिवसांत नोंदणी — मोफत.",
+      "para5": "संपर्क: ग्रामपंचायत कार्यालय, सावरला - ९०२१४१११७४.",
+      "para6": "ऑनलाइन सुविधा देखील उपलब्ध आहे."
     },
     "agriculture": {
-      "title": "Death Certificate",
-      "para1": "The following services are available: Death Certificate.",
+      "title": "मृत्यू दाखला",
+      "para1": "ग्रामपंचायतमार्फत खालील सेवा उपलब्ध आहेत: मृत्यू दाखला.",
       "section1": {
-        "title": "Documents Required",
-        "para": "Death certificate, Aadhaar card, and application."
+        "title": "आवश्यक कागदपत्रे",
+        "para": "मृत्यू प्रमाणपत्र, आधार कार्ड आणि अर्ज."
       },
       "section2": {
-        "title": "Registration Process",
-        "para": "Submit application at Gram Panchayat office."
+        "title": "नोंदणी प्रक्रिया",
+        "para": "ग्रामपंचायत कार्यालयात अर्ज सादर करा."
       },
       "section3": {
-        "title": "Fee Structure",
-        "para": "Registration within 21 days — Free."
+        "title": "शुल्क रचना",
+        "para": "२१ दिवसांत नोंदणी — मोफत."
       },
       "section4": {
-        "title": "Online Services",
-        "para": "Online facility is also available."
+        "title": "ऑनलाइन सेवा",
+        "para": "ऑनलाइन सुविधा देखील उपलब्ध आहे."
       },
       "section5": {
-        "title": "Contact & Office Hours",
-        "para": "Gram Panchayat Office, Savarla - 9021411174."
+        "title": "संपर्क व कार्यालयीन वेळ",
+        "para": "ग्रामपंचायत कार्यालय, सावरला - ९०२१४१११७४."
       },
-      "para2": "Contact the office for more information."
+      "para2": "अधिक माहितीसाठी कार्यालयाशी संपर्क साधा."
     },
     "employment": {
-      "title": "Water Tax",
-      "para1": "The following services are available: Water Tax Collection.",
-      "para2": "Water tax is necessary for the operation of the village water supply system.",
-      "para3": "Payment Rates: As per rules.",
-      "para4": "How to Pay: Visit the Gram Panchayat office.",
-      "para5": "The collected water tax fund is used for water facilities."
+      "title": "पाणी कर",
+      "para1": "ग्रामपंचायतमार्फत खालील सेवा उपलब्ध आहेत: पाणी कर संकलन.",
+      "para2": "पाणी कर गावाच्या पाणीपुरवठा प्रणालीच्या संचालनासाठी आवश्यक आहे.",
+      "para3": "पेमेंट दर: नियमानुसार.",
+      "para4": "कसे द्यावे: ग्रामपंचायत कार्यालयाला भेट द्या.",
+      "para5": "जमा केलेला पाणी कर निधी पाण्याच्या सुविधेसाठी वापरला जातो."
     },
     "education": {
-      "title": "Property Tax",
-      "para1": "The following services are available: Property Tax Collection.",
-      "para2": "Property tax is essential for village development.",
-      "para3": "Tax Rates: As per Gram Panchayat rules.",
-      "para4": "Property tax must be paid annually.",
-      "para5": "Visit the Gram Panchayat office for property tax payment."
+      "title": "मालमत्ता कर",
+      "para1": "ग्रामपंचायतमार्फत खालील सेवा उपलब्ध आहेत: मालमत्ता कर संकलन.",
+      "para2": "मालमत्ता कर हा गावाच्या विकासासाठी आवश्यक आहे.",
+      "para3": "कर दर: ग्रामपंचायतीच्या नियमानुसार.",
+      "para4": "मालमत्ता कर दरवर्षी भरणे आवश्यक आहे.",
+      "para5": "मालमत्ता कर पेमेंटसाठी ग्रामपंचायत कार्यालयाला भेट द्या."
     },
     "healthcare": {
-      "title": "Marriage Registration",
+      "title": "विवाह नोंदणी",
       "section1": {
-        "title": "Registration Requirements",
-        "para": "Marriage registration is an important service provided by the Gram Panchayat."
+        "title": "नोंदणी आवश्यकता",
+        "para": "विवाह नोंदणी ही ग्रामपंचायतीमार्फत दिली जाणारी महत्त्वपूर्ण सेवा आहे."
       },
       "section2": {
-        "title": "Documents Required",
-        "para": "Aadhaar cards of bride and groom, age proof, and photos."
+        "title": "आवश्यक कागदपत्रे",
+        "para": "वर व वधू दोघांचे आधार कार्ड, वयाचा पुरावा आणि फोटो."
       },
       "section3": {
-        "title": "Registration Process",
-        "para": "Visit the GP office and submit the application."
+        "title": "नोंदणी प्रक्रिया",
+        "para": "ग्रामपंचायत कार्यालयाला भेट देऊन अर्ज सादर करा."
       },
       "section4": {
-        "title": "Fee & Contact",
-        "para": "Gram Panchayat Office, Savarla - 9021411174."
+        "title": "शुल्क व संपर्क",
+        "para": "ग्रामपंचायत कार्यालय, सावरला - ९०२१४१११७४."
       },
       "section5": {
-        "title": "Other Government Services",
-        "para": "Construction permits and other government services are also available."
+        "title": "इतर शासकीय सेवा",
+        "para": "याशिवाय बांधकाम परवाना व इतर शासकीय सेवा उपलब्ध आहेत."
       }
     }
   },
   "news": {
-    "title": "Documents & Downloads",
-    "line": "Important documents and information of the Gram Panchayat.",
+    "title": "दस्तऐवज व डाउनलोड्स",
+    "line": "ग्रामपंचायतीचे महत्त्वपूर्ण दस्तऐवज आणि माहिती.",
     "articles": {
-      "1": { "title": "Gram Sabha Resolutions — New resolutions are available." },
-      "2": { "title": "Annual Report — View the annual report of the Gram Panchayat." },
-      "3": { "title": "Budget — Development works budget is available." },
-      "4": { "title": "Audit Report — Annual audit report." },
-      "5": { "title": "Tenders — Tender notices for new development works." },
-      "6": { "title": "Important Forms — Important forms required for various services." }
+      "1": { "title": "ग्रामसभा ठराव — नवीन ग्रामसभा ठराव उपलब्ध आहेत." },
+      "2": { "title": "वार्षिक अहवाल — ग्रामपंचायतीचा वार्षिक अहवाल पहा." },
+      "3": { "title": "अंदाजपत्रक — विकास कामांचे अंदाजपत्रक उपलब्ध आहे." },
+      "4": { "title": "लेखापरीक्षण अहवाल — वार्षिक लेखापरीक्षण अहवाल." },
+      "5": { "title": "निविदा — नवीन विकास कामांसाठी निविदा सूचना." },
+      "6": { "title": "महत्त्वाचे अर्ज — विविध सेवांसाठी लागणारे महत्त्वाचे अर्ज." }
     },
-    "read more": "Read More"
+    "read more": "अधिक वाचा"
   },
   "gallery": {
-    "title": "Photo Gallery",
-    "sub-title": "Village photos, Office photos, Event photos, and Development works photos"
+    "title": "फोटो गॅलरी",
+    "sub-title": "गावाचे फोटो, ग्रामपंचायत कार्यालयाचे फोटो, कार्यक्रमांचे फोटो आणि विकास कामांचे फोटो"
   },
   "contact us": {
-    "title": "Contact Us",
-    "msg": "Send Your Message",
-    "line": "Fill out this form to send your questions or suggestions to the Gram Panchayat office.",
-    "phone": "9021411174",
-    "address": "At Post Savarla, Tal Pawni, Dist Bhandara - 441910",
+    "title": "संपर्क करा",
+    "msg": "आपला संदेश पाठवा",
+    "line": "आपल्या प्रश्न किंवा सूचना ग्रामपंचायत कार्यालयाला पाठवण्यासाठी हा फॉर्म भरा.",
+    "phone": "९०२१४१११७४",
+    "address": "मु. पो. सावरला, ता. पवनी, जि. भंडारा - ४४१९१०",
     "form": {
-      "first name": "First Name",
-      "last name": "Last Name",
-      "email": "Email",
-      "phone": "Mobile Number",
-      "message": "Message",
-      "send message": "Send Message",
-      "sending": "Sending...",
-      "city": "Village / City"
+      "first name": "पहिले नाव",
+      "last name": "आडनाव",
+      "email": "ईमेल",
+      "phone": "मोबाईल नंबर",
+      "message": "संदेश",
+      "send message": "संदेश पाठवा",
+      "sending": "पाठवत आहे...",
+      "city": "गाव / शहर"
     }
   },
   "government schemes": {
-    "title": "Government Schemes",
-    "para1": "Information and benefits of various government schemes are made available to the villagers.",
-    "para2": "Contact the Gram Panchayat office to avail these schemes.",
-    "para3": "Gram Panchayat Savarla is committed to implementing government schemes.",
-    "small-title": "Active Schemes:",
-    "main-scheme": "PM Awas Yojana",
-    "scheme1": "MGNREGA",
-    "scheme2": "Jal Jeevan Mission",
-    "scheme3": "Swachh Bharat Abhiyan",
-    "scheme4": "Other Schemes",
-    "scheme5": "Farmer Welfare Schemes"
+    "title": "शासकीय योजना",
+    "para1": "ग्रामस्थांसाठी विविध शासकीय योजनांची माहिती व लाभ उपलब्ध करून देण्यात येतो.",
+    "para2": "या योजनांचा लाभ घेण्यासाठी ग्रामपंचायत कार्यालयाशी संपर्क साधा.",
+    "para3": "ग्रामपंचायत सावरला शासकीय योजनांची अंमलबजावणी करण्यासाठी वचनबद्ध आहे.",
+    "small-title": "सक्रिय योजना:",
+    "main-scheme": "प्रधानमंत्री आवास योजना",
+    "scheme1": "मनरेगा",
+    "scheme2": "जल जीवन मिशन",
+    "scheme3": "स्वच्छ भारत अभियान",
+    "scheme4": "इतर योजना",
+    "scheme5": "शेतकरी कल्याण योजना"
   },
   "development works": {
-    "title": "Development Works",
-    "title2": "Various Development Works in the Village",
-    "para1": "Various development works are being implemented in the village through the Gram Panchayat.",
-    "movement": "Village Development in Progress",
-    "para2": "This includes development works through roads, water supply, sanitation, public facilities, and various government schemes.",
-    "care": "Holistic Development",
-    "para3": "The Gram Panchayat is committed to the overall development of the village.",
-    "para4": "Here is an overview of the key development areas:",
+    "title": "विकास कामे",
+    "title2": "ग्रामपंचायतमार्फत गावात विविध विकासकामे",
+    "para1": "ग्रामपंचायतमार्फत गावात विविध विकासकामे राबविण्यात येत आहेत.",
+    "movement": "ग्राम विकास प्रगतीत",
+    "para2": "यामध्ये रस्ते, पाणीपुरवठा, स्वच्छता, सार्वजनिक सुविधा तसेच विविध शासकीय योजनांच्या माध्यमातून विकासकामे केली जात आहेत.",
+    "care": "सर्वांगीण विकास",
+    "para3": "गावाच्या सर्वांगीण विकासासाठी ग्रामपंचायत कटिबद्ध आहे.",
+    "para4": "येथे प्रमुख विकास क्षेत्रांचा आढावा आहे:",
     "development": {
       "1": {
-        "title1": "Roads & Sanitation",
-        "title2": "Road Development:",
-        "title3": "Cleanliness Drive:",
-        "para1": "Internal village roads have been constructed and upgraded.",
-        "para2": "Cleanliness is being maintained in the village under the Swachh Bharat Abhiyan."
+        "title1": "रस्ते व स्वच्छता",
+        "title2": "रस्ते विकास:",
+        "title3": "स्वच्छता अभियान:",
+        "para1": "गावांतर्गत रस्ते बांधले गेले आहेत आणि सुधारित केले गेले आहेत.",
+        "para2": "स्वच्छ भारत अभियानांतर्गत गावात स्वच्छता राखली जात आहे."
       },
       "2": {
-        "title1": "Water Supply",
-        "title2": "Jal Jeevan Mission:",
-        "para1": "Tap connections have been provided to every household in Savarla under the Jal Jeevan Mission."
+        "title1": "पाणीपुरवठा",
+        "title2": "जल जीवन मिशन:",
+        "para1": "जल जीवन मिशन अंतर्गत सावरलातील प्रत्येक घरापर्यंत नळजोडणी प्रदान केली गेली आहे."
       },
       "3": {
-        "title1": "Public Facilities",
-        "para1": "Public facilities are being provided through various government schemes."
+        "title1": "सार्वजनिक सुविधा",
+        "para1": "विविध शासकीय योजनांच्या माध्यमातून सार्वजनिक सुविधा उपलब्ध करून देण्यात येत आहेत."
       }
     }
   },
-  "quote1": "Gram Panchayat Office Savarla",
-  "quote2": "At Your Service",
-  "join": "Know Your Rights",
+  "quote1": "ग्रामपंचायत कार्यालय सावरला",
+  "quote2": "आपल्या सेवेत",
+  "join": "आपले हक्क जाणा",
   "emergency": {
-    "title": "Emergency Contacts",
-    "police": "Police Station",
+    "title": "आपत्कालीन संपर्क",
+    "police": "पोलीस स्टेशन",
     "police_num": "07185 255 223",
-    "phc": "Primary Health Centre",
-    "phc_num": "07185",
-    "ambulance": "Ambulance Service",
-    "ambulance_num": "108",
-    "fire": "Fire Department",
-    "fire_num": "101",
-    "tehsil": "Tehsil Office",
-    "tehsil_num": "07185"
+    "phc": "प्राथमिक आरोग्य केंद्र",
+    "phc_num": "०७१८५",
+    "ambulance": "रुग्णवाहिका सेवा",
+    "ambulance_num": "१०८",
+    "fire": "अग्निशमन विभाग",
+    "fire_num": "१०१",
+    "tehsil": "तहसील कार्यालय",
+    "tehsil_num": "०७१८५"
   },
   "officials": {
     "sarpanch": {
-      "title": "Sarpanch",
-      "name": "Sou. Padmita Gangadhar Bhajipale",
-      "mobile": "7888237514"
+      "title": "सरपंच",
+      "name": "सौ. पद्मिता गंगाधर भाजीपाले",
+      "mobile": "७८८८२३७५१४"
     },
     "upsarpanch": {
-      "title": "Upsarpanch",
-      "name": "Shri. Uttamrao Vaman Savarbandhe",
-      "mobile": "9765519079"
+      "title": "उपसरपंच",
+      "name": "श्री. उत्तमराव वामन सावरबांधे",
+      "mobile": "९७६५५१९०७९"
     },
     "gramsevak": {
-      "title": "Gramsevak",
-      "name": "Shri. L. B. Latpate",
-      "mobile": "9021411174"
+      "title": "ग्रामसेवक",
+      "name": "श्री. एल. बी. लटपटे",
+      "mobile": "९०२१४१११७४"
     },
     "member1": {
-      "title": "Member (Gandhi Ward)",
-      "name": "Shevanta Dhanraj Khegi",
-      "mobile": "9764936454"
+      "title": "सदस्या (गांधी वॉर्ड)",
+      "name": "शेवंता धनराज खेगी",
+      "mobile": "९७६४९३६४५४"
     },
     "staff": {
-      "title": "Peon",
-      "name": "Pramod Nanaji Suryavanshi",
-      "designation": "Peon",
-      "mobile": "8552951811"
+      "title": "शिपाई",
+      "name": "प्रमोद नानाजी सूर्यवंशी",
+      "designation": "शिपाई",
+      "mobile": "८५५२९५१८११"
     }
   },
   "chatbot": {
-    "welcome": "Hello! I am the Gram Panchayat Savarla Assistant. How can I help you?",
+    "welcome": "नमस्कार! मी ग्रामपंचायत सावरला सहाय्यक आहे. मी आपली कशी मदत करू शकतो?",
     "questions": {
-      "birth_cert": "How to get a Birth Certificate?",
-      "death_cert": "How to get a Death Certificate?",
-      "office_hours": "What are the office hours?",
-      "contact": "What is the contact number?",
-      "water_tax": "How to pay water tax?",
-      "property_tax": "How to pay property tax?",
-      "schemes": "What are the government schemes?",
-      "gram_sabha": "When is the Gram Sabha?"
+      "birth_cert": "जन्म दाखला कसा मिळवायचा?",
+      "death_cert": "मृत्यू दाखला कसा मिळवायचा?",
+      "office_hours": "कार्यालयाची वेळ काय आहे?",
+      "contact": "संपर्क क्रमांक काय आहे?",
+      "water_tax": "पाणी कर कसा भरायचा?",
+      "property_tax": "मालमत्ता कर कसा भरायचा?",
+      "schemes": "शासकीय योजना कोणत्या आहेत?",
+      "gram_sabha": "ग्रामसभा कधी असते?"
     },
     "answers": {
-      "birth_cert": "Please contact the Gram Panchayat office for a Birth Certificate.",
-      "death_cert": "Please contact the Gram Panchayat office for a Death Certificate.",
-      "office_hours": "Office Hours: Mon–Sat 10:00 AM to 5:00 PM.",
-      "contact": "Contact: Gram Panchayat Office - 9021411174.",
-      "water_tax": "Water tax can be paid at the Gram Panchayat office.",
-      "property_tax": "Property tax can be paid at the Gram Panchayat office.",
-      "schemes": "Schemes: PM Awas Yojana, MGNREGA, Jal Jeevan Mission, Swachh Bharat Abhiyan.",
-      "gram_sabha": "Information regarding Gram Sabha is available at the office."
+      "birth_cert": "जन्म दाखल्यासाठी ग्रामपंचायत कार्यालयात संपर्क साधा.",
+      "death_cert": "मृत्यू दाखल्यासाठी ग्रामपंचायत कार्यालयात संपर्क साधा.",
+      "office_hours": "कार्यालय वेळ: सोम–शनि सकाळी १०:०० ते सायंकाळी ५:००.",
+      "contact": "संपर्क: ग्रामपंचायत कार्यालय - ९०२१४१११७४.",
+      "water_tax": "पाणी कर ग्रामपंचायत कार्यालयात भरता येतो.",
+      "property_tax": "मालमत्ता कर ग्रामपंचायत कार्यालयात भरता येतो.",
+      "schemes": "योजना: प्रधानमंत्री आवास योजना, मनरेगा, जल जीवन मिशन, स्वच्छ भारत अभियान.",
+      "gram_sabha": "ग्रामसभेची माहिती कार्यालयात मिळेल."
     }
   }
 }
